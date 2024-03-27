@@ -1,0 +1,380 @@
+<center>
+What began as [[Wikipedia:Free_and_Open_Source_Software|FOSS]] recommendations, but has grown beyond software into hardware and general advice.'''
+</center>
+
+= Avoid PRISM & Other Surveillance =
+[[Image:Wesnoth.svg|64px|left]]
+* The U.S. [[Wikipedia:PRISM|PRISM Surveillance program]] has now been laid bare, and we should all be worried about it.  Many of the recommendations below provide relief from surveillance or at least some level of protection.  For a nice graphical list of alternatives to avoid PRISM, see [http://prism-break.org PRISM Break] and [https://alternatives.tacticaltech.org Tactical Tech].
+* Check out our [[Libre_Recommendations#Privacy & Anonymity|recommendations for Privacy and Anonymity]]
+* For more detailed guides to self-defense, see the [https://ssd.eff.org/ SSD Project] and [[Libre_Recommendations#Riseup.net|Riseup.net]]'s [https://help.riseup.net/en/security primer on security].
+
+=Social Media Alternatives=
+
+== [[File:Mastodon_logo.png|64px|left]] Federated Social networks ==
+* [https://kolektiva.social Kolektiva] is a leftist friendly [https://joinmastodon.org Mastodon] instance.<br>
+* [https://www.farcaster.xyz/ Farcaster] is a sufficiently decentralized social network built on Ethereum. $5 yearly fee. <br>
+* [https://kolektiva.media/videos/local kolektiva.media] collective offering video hosting to anarchist collectives and individuals<br>
+* [https://social.edist.ro social.edist.ro] anarchists and antifascists everywhere <br>
+* [https://friendi.ca/ Friendica] is software to create a distributed social network. Diaspora and Hubzilla compatible .
+
+==[[Image:Panquake-logo-W.png|64px|left]] [https://panquake.com/ PanQuake] ==
+* [https://panquake.com/5000/ Join our BETA] for Powerful, next generation messaging technology.
+* Custom Blockchain, SMS support, Transparent moderation, and no timeline manipulation.
+* No selling user data, advertising free, fee based.
+
+= Free Software =
+==[[File:Openlogo-debianV2.svg|64px|left]] Definition ==
+* '''These programs fit the [https://www.gnu.org/philosophy/free-sw.html free software definition] ([[Wikipedia:Free_software|libre]]) and are also [[Wikipedia:Freeware|freeware]] ([[Wikipedia:Gratis_versus_libre|gratis]]).'''
+* These programs fit the [http://www.debian.org/social_contract#guidelines Debian Free Software Guidelines].
+* You may see the acronym FOSS, meaning "free/open-source software".
+
+== Operating Systems ==
+===[[Image:Gnulinux.svg|64px|left]] General ===
+* It's not just a Windows and Mac world.  '''Mac vs. PC is a marketing illusion''', and [http://www.defectivebydesign.org/apple Apple doesn't respect our freedom].
+* Many of the programs listed below are developed on [[Wikipedia:GNU_Linux|GNU/Linux]], and then [[Wikipedia:Porting|ported]] to Windows.  As such, they're likely to work better on GNU/Linux.  See the [[Free_Skool:Software#GNU.2FLinux|GNU/Linux options]] below if you'd like to try out a new and exciting operating system, and get out of the Mac vs. PC rut.
+* Due to a malfunction in [[User:Diggity|Diggity]]'s reality distortion field, most of the individual apps listed below are for Windows.  That [http://en.windows7sins.org awful proprietary OS] is still widely installed, so it can be a starting point for FOSS users.
+* Suggestions for Mac OSX programs are welcome, and this list will also grow to include phone/tablet platforms.
+* Suggestions for software without Windows or Mac builds should have an accompanying note.  GNU/Linux users generally don't need to search around the Web and download individual packages/tarballs/binaries, since modern distributions have [[Wikipedia:Package_management_system|package management systems]].
+
+=== GNU/Linux ===
+===[[Image:Trisquel.svg|32px|left]] Recommended [[Wikipedia:Linux_distribution|Distros]] ===
+If you would like to try a libre, gratis, and freedom-respecting (i.e. non-spying) operating system, please take a look at:
+* [https://trisquel.info Trisquel]
+* [https://debian.org Debian]
+* [https://www.snowlinux.de Snow Linux]
+* [http://www.descentos.org Descent OS]
+* [https://pinguy-os.sourceforge.net Pinguy OS]
+* [https://crunchbang.org Crunchbang]
+* [https://manjaro.org Manjaro]
+* [https://elementary.io Elementary]
+
+===[[Image:Tomboy.svg|32px|left]] Notes ===
+* Most of these GNU/Linux distributions are Debian-based.  See the [http://www.debian.org/social_contract Debian Social Contract] to learn more about that excellent project.
+* [[Video_Resources#Trisquel_GNU.2FLinux|Video tutorial and review of Trisqel]]
+* Other alternatives include [http://linuxmint.com Linux Mint], [http://lxle.net LXLE], [http://xubuntu.org Xubuntu], [http://ubuntu.com Ubuntu], [http://opensuse.org OpenSuSE], and [http://chakra-project.org Chakra].  These operating systems have a mix of libre and proprietary code, or other problems (e.g. Ubuntu's "lenses" send data to companies like Amazon).
+* You don't have to be tied to your OS and should instead look at the [http://distrowatch.org huge variety of alternatives].
+* More help installing/configuring a [[Wikipedia:List_of_Linux_distributions#Debian-based|Debian-based]] or [[Wikipedia:List_of_Linux_distributions#Ubuntu-based|Ubuntu-based]] system (like [http://trisquel.info Trisquel] and [http://parsix.org Parsix]):
+** ''The Official Ubuntu Book'' | [https://getlibre.org/wiki/images/Official_Ubuntu_Book_-_7th_Edition.epub EPUB] | [https://getlibre.org/wiki/images/Official_Ubuntu_Book_-_7th_Edition.pdf PDF] | ''7th Edition (2012), CC-BY-SA by Matthew Helmke and Amber Graner, with Kyle Rankin, Benjamin Mako Hill, and Jono Bacon''.
+
+=== GNU/Linux Pre-Installed ===
+* To buy a computer that has GNU/Linux pre-installed, take a look at the long list of vendors at [http://linuxpreloaded.com Linux Preloaded].
+* For the most comprehensive database on compatible hardware, check out [http://h-node.org H-Node].
+
+===[[Image:Usb-creator.svg|48px|left]] "Live" DVD/USB ===
+* All of the operating systems listed above have a "try before you install" option, where you can [https://en.wikipedia.org/wiki/Live_cd run them as a LiveDVD/USB] and not touch your local files or hard drives.
+* [https://help.ubuntu.com/community/BurningIsoHowto HowTo Burn an ISO to a Live DVD/USB]
+* [https://www.youtube.com/watch?v=pcw25WleOs4 How try a LiveCD ISO in VirtualBox]
+
+===[[Image:Wine-uninstaller.svg|48px|left]] Running Windows Apps in GNU/Linux ===
+* [https://en.wikipedia.org/wiki/Wine_%28software%29 Wine]: Software compatibility layer for GNU/Linux that will run Windows software natively.  Check the [http://appdb.winehq.org AppDB] to see if your program will run on Wine, and how well.
+** [http://www.howtogeek.com/105271/how-to-run-windows-software-on-ubuntu-with-wine/ A simple Wine tutorial]
+* [http://www.playonlinux.com PlayOnLinux] and [http://www.codeweavers.com/compatibility/ Crossover]: Two options built upon Wine. Use Crossover's [http://www.codeweavers.com/compatibility Compatibility DB] to search for the program you're trying to run.
+* [https://en.wikipedia.org/wiki/Virtualbox VirtualBox]: Run Windows inside a [https://en.wikipedia.org/wiki/Virtual_machine virtual machine].  Also a great way to try out [http://distrowatch.org GNU/Linux and Unix distros]!
+
+===[[Image:Tor_logo1.png|48px|left]] Privacy & Anonymity ===
+* [https://tails.boum.org TAILS]: The Amnesiac Incognito Live System is a live GNU/Linux distribution.  It will boot without leaving any traces on your hard drives, like any other GNU/Linux LiveDVD/USB.  However, it also sends all network traffic through [https://www.torproject.org/ Tor] for anonymity and has a suite of encryption tools pre-installed.
+* [http://whonix.sf.net/ Whonix]: Designed to run in [https://en.wikipedia.org/wiki/Virtual_machine virtual machines], using software such as [https://en.wikipedia.org/wiki/Virtualbox VirtualBox].  Read [https://lwn.net/Articles/520106/ more about this approach] before trying.
+* See our section on [[Libre_Recommendations#Web_Browsers|Web Browsers]] for private browsing options.
+
+== Graphics ==
+=== Libre Graphics Magazine ===
+* [http://libregraphicsmag.com/ A great resource for artists], produced collaboratively under FOSS/free culture licenses.  All issues are available in low and high res on a "payment optional" model.
+** [http://libregraphicsmag.com/asset/ Libre Graphics Asset page], [http://libregraphicsmag.com/manifesto/ Manifesto], and [https://gitorious.org/libregraphicsmag source code].
+
+=== Photo Editors ===
+* [http://gimp.org GIMP]: Edits photos and creates [https://en.wikipedia.org/wiki/Raster_graphics raster graphics], as well as plugins for animation.  Replaces Adobe Photoshop, Microsoft Photo Editor.
+* [http://getpaint.net Paint.NET]: A popular alternative.  Requires an updated version of the .NET framework (i.e. an up-to-date version of Windows).
+* [http://pinta-project.com/ Pinta]: Simple multi-platform photo editor.  Like Paint.NET but with a more basic interface.
+* [http://www.xara.com/us/products/designer/ Xara Xtreme]: Photo and graphic editor.
+* [http://lightzoneproject.org LightZone]: Manages photo collections and does basic editing, supports RAW.
+* [http://www.rawtherapee.com/ Raw Therapee]: Advanced photo collection management.
+* [http://www.darktable.org/ darktable]: Photography workflow management and RAW editor.
+
+=== Drawing ===
+* [http://inkscape.org Inkscape]: Creates [https://en.wikipedia.org/wiki/Svg SVG] [https://en.wikipedia.org/wiki/Vector_graphics vector graphics], exports to a variety of vector and [https://en.wikipedia.org/wiki/Raster_graphics raster graphics] formats.  Replaces Adobe Illustrator.
+
+=== Animation ===
+* [http://www.synfig.org/cms/ Synfig]: 2-D animation studio.  Replaces Adobe Flash.
+
+=== Fonts ===
+* [http://www.openfontlibrary.org/ Open Font Library]
+* [http://ospublish.constantvzw.org/foundry/ OSP Foundry]
+
+=== Misc ===
+* [http://www.mirekw.com/winFreeware/mwsnap.html MWsnap]: Simple screenshot utility.
+* [http://www.iconico.com/colorpic/ Colorpic]: Color picker (great for figuring out [https://en.wikipedia.org/wiki/Web_colors#Shorthand_hexadecimal_form hex color codes] in HTML/CSS!)
+* [http://lifehacker.com/5976725/build-your-own-adobe-creative-suite-with-free-and-cheap-software Build-Your-Own Adobe Creative Suite using libre and/or gratis alternatives]
+
+== Office & Publishing ==
+* [https://www.libreoffice.org/ LibreOffice]: Successor to [https://www.openoffice.org/ OpenOffice.org].  Replaces Microsoft Office, Microsoft Works.
+* [https://www.scribus.net/ Scribus]: Editor for complex layouts, such as those for print publishing.  Replaces Quark Xpress, Adobe InDesign, Microsoft Publisher.
+* [http://pdfedit.cz/ PDFedit]: Manipulate and edit PDF files.  Replaces Adobe Acrobat.
+* [https://www.formulate.rocks/pro/ Formulate Pro]: Edit and annotate PDF documents.
+* [https://www.lyx.org/ LyX]: Modern, cross-platform [https://en.wikipedia.org/wiki/LaTeX LaTeX] editor.
+* [https://www.xm1math.net/texmaker/ Texmaker]: Another graphical LaTeX editor for many platforms.
+* [https://www.winedt.com/ WinEdt]: Another LaTeX editor.
+* [https://github.com/viettug/winefish Winefish]: Editor for experienced LaTeX users, based on Bluefish.
+
+== Internet ==
+=== Web Browsers ===
+* [http://getfirefox.org Mozilla Firefox]: Popular, freedom-respecting Web browser.  Replaces Internet Explorer, Safari.
+** extensions: [https://addons.mozilla.org/en-us/firefox/addon/adblock-edge/ Adblock Edge], [https://addons.mozilla.org/en-US/firefox/addon/beef-taco-targeted-advertising/ Beef Taco], [https://www.eff.org/https-everywhere HTTPS Everywhere], [http://donottrack.us/ Do Not Track], [https://addons.mozilla.org/en-Us/firefox/addon/duckduckgo-for-firefox/ DuckDuckGo Plus], [http://tosdr.org/downloads.html ToS;DR], [https://addons.mozilla.org/en-Us/firefox/addon/self-destructing-cookies/ Self-Destructing Cookies], [https://addons.mozilla.org/en-US/firefox/addon/web-developer/ Web Developer]
+* [http://www.midori-browser.org Midori]: Lightweight browser that uses the the Webkit rendering engine, so it will render pages like Chrome/Chromium and Safari (in most cases).  We recommend this over other Webkit browsers, since it has privacy and ad-blocking tools built in.
+* [http://download-chromium.appspot.com Chromium]: Freedom-respecting version of Google Chrome.
+** plugins: [https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb Adblock Plus], [https://www.eff.org/https-everywhere HTTPS Everywhere], [http://donottrack.us/ Do Not Track], [https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bpphkkgodbfncbcpgopijlfakfgmclao DuckDuckGo], [http://tosdr.org/downloads.html ToS;DR], [https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm Web Developer]
+* Other options include [http://www.seamonkey-project.org SeaMonkey], [http://www.caminobrowser.org Camino], [http://www.konqueror.org Konqueror], or [https://github.com/Emdek/otter/wiki/Packages Otter Browser].
+* A new stripped-down "classic" version of Firefox is also [http://palemoon.org available as Pale Moon].
+
+==== Built for Privacy & Anonymity ====
+* [https://www.torproject.org/projects/torbrowser.html.en Tor Browser Bundle]: Anonymous Web browsing.  Your communications are bounced around the [https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29 Tor anonymity network].
+* [http://piratebrowser.com/ Pirate Browser]: A browser by [http://en.wikipedia.org/wiki/The_Pirate_Bay TPB] that bundles Tor, Firefox Portable, Foxy Proxy, and some custom configs that allows you to circumvent censorship that certain countries  impose on their citizens (e.g. Iran, North Korea, United Kingdom, The Netherlands, Belgium, Finland, Denmark, Italy, Ireland).
+** '''Note:''' It's unclear [http://www.theregister.co.uk/2013/08/12/pirate_bay_releases_new_privacyminded_browser/ whether or not] it gives you all the anonymity of the [https://www.torproject.org/projects/torbrowser.html.en Tor Browser Bundle].
+
+==== Browser Tips ====
+* '''Set up your browser to be smart and secure by [http://fixtracking.com/ following these tips], no matter what browser you're using!'''
+* Escape the [http://dontbubble.us/ Filter Bubble] and [http://donttrack.us/ avoid online tracking].
+* Utilize [https://duckduckgo.com DuckDuckGo], [http://www.openstreetmap.org/ OpenStreetMap], [https://www.startpage.com/ Startpage], [https://www.ixquick.com/ Ixquick], and [[Software_Recommendations#Riseup.net|Riseup.net]]'s services instead of relying upon Google (and its much smaller "rivals").
+** Please read our [[DuckDuckGo|page on DuckDuckGo]] for an overview of potential problems with the alternative search engines, including DuckDuckGo.  The search engine waters are very murky, but the alternatives are still much better than Google, Bing, Yahoo!, et al.
+* Check out [https://riseup.net RiseUp.net]'s [https://help.riseup.net/en/browser-privacy-scorecard Browser Privacy Scorecard] to rate your browser.
+* '''Don't use CryptoCat!''' CryptoCat, Hushmail, and other tools that utilize [http://www.schneier.com/blog/archives/2012/08/cryptocat.html host-based security] are full of false promises.  Also, [http://tobtu.com/decryptocat.php DeCryptoCat has proven] the tool can't be trusted.
+
+=== E-mail & Calendar ===
+* [https://www.mozilla.org/thunderbird Mozilla Thunderbird]: E-mail client and [https://en.wikipedia.org/wiki/Rss_feed RSS feed] reader.  Replaces Microsoft Outlook.
+** plugins: [https://addons.mozilla.org/en-US/thunderbird/addon/lightning/ Lightning Calendar], [https://addons.mozilla.org/en-us/thunderbird/addon/enigmail/ EnigMail], [https://addons.mozilla.org/en-US/thunderbird/addon/adblock-plus/ Adblock Plus]
+* [https://www.mozilla.org/projects/calendar/sunbird Sunbird]: Stand-alone calendar program.  Can also be combined with [https://www.mozilla.org/thunderbird Mozilla Thunderbird] as [https://addons.mozilla.org/en-US/thunderbird/addon/lightning/ Lightning Calendar].
+* [https://bitmessage.org Bitmessage]: Private messaging software based on [[Bitcoin]], intended for e-mail-like communication but with [https://bitcointalk.org/index.php?topic=212490.0 much more potential].
+==== Hosting ====
+* Private e-mail and calendar requires a privacy-respecting host.  Lavabit and Silent Mail have closed down, and there aren't many options for third-party providers left.  Consider the [[Libre_Recommendations#Riseup.net|Riseup.net]] option (although you have to be invited to get an @riseup.net account) or paying for a service like [http://mykolab.com MyKolab] (it's recommended by [http://www.groklaw.net/article.php?story=20130818120421175 pj at groklaw]).  If you're going to host your own e-mail, there are a lot of options and you may want to [http://www.kolab.org/ install Kolab yourself].
+
+=== IM & Chat ===
+* [http://pidgin.im Pidgin]: Instant Messaging client for (almost) all chat protocols, including IRC.  Replaces AIM, Google Talk, Facebook Messenger, ICQ.
+** plugins: [http://www.cypherpunks.ca/otr/ Off-the-Record messaging], [http://sourceforge.net/projects/guifications/ Guifications]
+* [https://en.wikipedia.org/wiki/Session_Initiation_Protocol SIP] Video/Voice Calls: [https://jitsi.org/ Jitsi] and  [http://www.ekiga.org/ Ekiga] are two choices to replace Skype and other VoIP clients.
+* [http://xchat.org/ XChat]: Allows you to join multiple IRC channels, chat one-on-one, and transfer files.
+* [https://bitmessage.org Bitmessage]: Private messaging software based on [[Bitcoin]], intended for e-mail-like communication but with [https://bitcointalk.org/index.php?topic=212490.0 much more potential].
+* [http://labs.bittorrent.com/experiments/bittorrent-chat.html BitTorrent Chat]: Chat privately using decentralized hash tables and keys over Bittorrent.
+* [http://tox.im/ Tox]: A secure messaging replacement for Skype, still in testing.
+* [http://quickmsg.vreeken.net/ QuickMSG]: A text message app for Android that uses PGP-encrypted e-mail with IMAP/SMTP instead of SMS.  It's like sending an e-mail with [https://enigmail.net/home/index.php Enigmail], but it looks like SMS instead.
+
+=== File Transfer & Sharing ===
+* [http://filezilla-project.org/ Filezilla]: [https://en.wikipedia.org/wiki/FTP FTP] and [https://en.wikipedia.org/wiki/SSH_file_transfer_protocol SFTP client] for transferring files.  Replaces CuteFTP.
+* [http://deluge-torrent.org Deluge Torrent]: Downloads via the [https://en.wikipedia.org/wiki/BitTorrent Bittorrent] protocol, for efficient downloading of large binary files.  Perhaps best known from sites such as [https://en.wikipedia.org/wiki/Piratebay PirateBay] (NSFW), but also may be used with [http://gigaom.com/2007/03/03/ten-sites-for-free-and-legal-torrents/ legal torrents].  Deluge includes advanced [https://en.wikipedia.org/wiki/Deluge_%28software%29#Features encryption settings].
+** Instructions for [[Bittorrent|setting up Deluge]].
+* [http://retroshare.sourceforge.net/ RetroShare]: [https://en.wikipedia.org/wiki/Peer-to-peer Peer-to-peer] ("friend-2-friend"), and secure, decentralised sharing.  Replaces Limewire.
+** [http://retroshare.sourceforge.net/screenshots.html Screenshots and instructions for set up]
+* [http://sparkleshare.org/ SparkleShare]: Simple file synchronization and [https://en.wikipedia.org/wiki/Cloud_storage_service cloud storage], using [https://en.wikipedia.org/wiki/Git_(software) git] as a backend.  Replacement for Dropbox, [https://one.ubuntu.com/ Ubuntu One].
+* [http://www.oneswarm.org/ OneSwarm]: A file sharing program that utilizes [[Bittorrent]] for strong anonymity.
+** Still not sure what [[Bittorrent]] is?  Familiarize yourself with it through this great paper, [http://www.michaelpiatek.com//papers/piatek_hotsec08.pdf Why My Printer Received a DMCA Takedown Notice].
+
+==== Bad Peers ====
+* [http://sourceforge.net/projects/peerguardian/ PeerGuardian] and [http://www.peerblock.com/ PeerBlock] are firewalls to block known bad addresses from investigating you. 
+** [http://netforbeginners.about.com/od/downloadingfiles/a/peerblock_p2p_anonymity.htm More info here]
+* [https://help.ubuntu.com/community/MoBlock MoBlock] and [http://sourceforge.net/p/peerguardian/wiki/pgl-Main/ PGL] are alternatives for GNU/Linux.
+
+== Code & Text Editors ==
+* [http://www.notepad-plus-plus.org/ Notepad++]: Feature-rich text editor.  Great for code editing.  Replaces Notepad.
+* [http://www.peterborgapps.com/smultron/ Smultron]: Multi-document text editor for Mac OSX.  Replaces TextEdit.
+* [http://bluegriffon.org/ BlueGriffon]: Graphical, "[https://en.wikipedia.org/wiki/WYSIWYG WYSIWYG]" website editor.  Successor to [http://kompozer.net/ KompoZer].  Replaces Macromedia/Adobe Dreamweaver.
+** plugins: [http://www.bluegriffon.com/index.php?pages/FireFTP FireFTP]: for uploading edited files to a Web server.
+** [http://www.bluegriffon-epubedition.com/ EPUB Edition]: For editing ePub books.
+* [http://www.w3.org/Amaya/Overview.html Amaya]: Another great WYSIWYG website editor, hosted by the W3C.
+* [http://bfwiki.tellefsen.net/index.php/Installing_Bluefish Bluefish]: Code editor that tries to be lean and clean, with tons of options.  Not really a WYSIWYG editor, as it focuses on text output.
+* [http://www.eclipse.org/ Eclipse]: The Eclipse IDE, originally geared toward [https://en.wikipedia.org/wiki/Java_%28programming_language%29 Java], the language it's written in, but supports editing in almost any language.
+** [http://www.phpeclipse.com/ PHPeclipse] and [http://www.aptana.com/ Aptana]: Eclipse plugins which also have stand-alone installers.  Complex code editors, for those who are approaching websites as Web applications and have a strong programming background.
+
+== Multimedia ==
+=== Audio Editors ===
+* [http://ardour.org Ardour]: Advanced [https://en.wikipedia.org/wiki/Digital_Audio_Workstation Digital Audio Workstation], with tons of options and plugins.  Replaces Fruity Loops.
+* [http://audacity.sourceforge.net/download/windows Audacity]: Waveform editor, for editing WAV files and other audio directly.  Replaces SoundForge and Adobe Audition.
+* [http://www.giadamusic.com Giada]: Loop machine, drum machine, sequencer, live sampler.  Replaces SoundForge and Adobe Audition.
+* [http://mixxx.org Mixxx]: DJ mixer, playlist, beat matcher, and beat juggler, with many input options.
+* [http://www.jokosher.org/ Jokosher]: Multi-track audio editor with instrumental inputs.
+* [http://www.rosegardenmusic.com/ Rosegarden]: MIDI sequencer, score editor, music composition studio.
+* [http://xwax.org/ xwax]: Play digital audio files as if they were on vinyl turntables, including scratch effects and other DJ sounds.
+* [http://waveshop.sourceforge.net/ WavShop]: Bit-perfect WAV sound editor, which only edits the portion of the sound file that needs to change.
+
+==== Audio Programming ====
+* [https://sourceforge.net/projects/supercollider SuperCollider]: Real-time audio synthesis and algorithmic composition. Basically, you program music.
+* [http://sox.sourceforge.net/ SoX]: Command-line sound processing.
+
+=== Video Editors ===
+* [http://avidemux.berlios.de AviDemux]: Advanced video editor.
+* [http://www.jahshaka.com Jahshaka]: Media management and playback, compositing, editing and effects application.
+* [http://camstudio.org/ CamStudio]: "Screencasting" screen recorder program.
+* [http://openshot.org/ OpenShot]: Simple video editor.  Replaces Windows Movie Maker, iMovie.
+* [http://kdenlive.org KdenLive]: Mult-track video editor.
+* [http://www.avisynth.org/ avisynth]: Single-track GUI for video editing.
+* [http://www.videolan.org/vlmc/ VLC Movie Creator]: From the folks who brought us VLC Media Player.  Replaces Windows Movie Maker, iMovie.
+
+==== Animated GIFs ====
+'''[[Animated_GIFs|See our tutorial]] on creating high-quality GIFs.'''
+
+* Should be edited by a photo editor like [http://gimp.org GIMP] or one of the [[Libre_Recommendations#Photo_Editors|options above]].
+* [http://www.cockos.com/licecap/ LICEcap GIF recorder]: for creating animated GIF "screencasts", alternative to [http://blog.bahraniapps.com/?page_id=21 GifCam]
+
+==== Digital Forensics ====
+* [http://forevid.org/ Forevid]: Video forensics software developed and used by Finland's National Bureau of Investigation.
+
+=== Slideshows ===
+* [http://imagination.sourceforge.net/ Imagination]: Lightweight and simple DVD slide show maker.
+* [http://www.dvdslideshowgui.tk/ DVD Slideshow GUI]: Slideshow maker for Windows systems.
+** [http://booki.flossmanuals.net/dvd-slideshow-gui/_full/ Tutorial]
+* [https://www.libreoffice.org/features/impress/ LibreOffice Impress]: Replacement for PowerPoint.
+
+=== Media Players ===
+* [http://www.clementine-player.org Clementine]: Feature-rich audio player.  Replaces iTunes, WinAmp.
+* [http://getnightingale.com/ NightingGale]: Audio player, successor to [http://getsongbird.com/ Songbird].  Replaces iTunes.
+* [http://videolan.org VLC Media Player]: The penultimate audio/video player.  Replaces Windows Media Player, QuickTime.
+* [https://code.google.com/p/jukes/ Jukes]: Jukebox-like music player.
+* [http://jajuk.info/index.php/Main_Page Jajuk]: Another player based around the jukebox concept.
+* [http://bluemindo.codingteam.net/ Bluemindo]: Very simple music player, like Amarok without the plugins.
+* [http://aqualung.factorial.hu/ Aqualung]: Audio player with seamless playback, no space between files.
+
+=== Media Centers ===
+* [http://mythtv.org/ MythTV]: Software digital video recorder (DVR/PVR).  Replaces Windows Media Center, TiVo.
+** [http://www.mythbuntu.org/ Mythbuntu]: GNU/Linux distro featuring MythTV for easy install.
+* [http://xbmc.org/ XBMC]: Full-featured media center designed to turn any computer into a DVR/PVR device.  Replaces Windows Media Center, TiVo.
+** [http://www.openelec.tv/ OpenELEC]: GNU/Linux distro featuring XMBC that "turns a blank PC into a media machine in less than 15 minutes."
+
+=== Misc ===
+* [http://infrarecorder.org InfraRecorder]: Audio CD and DVD burner.  Replaces Nero.
+* [http://www.freac.org/index.php/en fre:ac]: Audio converter from mp3 to ogg etc.
+* [http://winff.org/html_new/ WinFF]: Video encoder for lots of formats.
+* [http://www.virtualdub.org/ VirtualDub]: Basic video capture, processing, and editing.  An abandoned fork called [http://sourceforge.net/projects/virtualdubmod VirtualDubMod] has some features like MKV encoding.
+* [http://devel.zs4.org/tabencode.html t@b Media Converter]: Converts audio/video using [https://en.wikipedia.org/wiki/SoX sox] and [https://en.wikipedia.org/wiki/Mencoder mencoder].
+* [http://mp3diags.sourceforge.net/ MP3 Diags]: Fixes a variety of problems with mp3 tags and mp3 files as well.
+
+== 3D Modeling & CAD ==
+* [http://blender.org Blender]: 3D graphics suite for modeling, animation, rendering, and more.
+* [http://www.qcad.org QCAD]: Full-featured CAD software that reads DWG and has a CAM plugin.  Replaces AutoCAD.
+* [https://en.wikipedia.org/wiki/Freecad FreeCAD]: Free software CAD suite.
+* [http://www.sweethome3d.com/ Sweet Home 3D]: Architectural design tool. Helps you place your furniture on a house 2D plan, with a 3D preview.
+* [http://brlcad.org/ BRL-CAD]: Modeling system with raytracing, geometric analysis, and more.
+
+== Beer & Wine Brewing ==
+* [http://www.brewtarget.org/ BrewTarget]: Reads and writes recipes in BeerXML, automatically calculates color, bitterness, etc.  Replaces BeerSmith.
+** [http://barleypopmaker.info/2012/09/30/free-brewing-software-the-review/ Overview and Comparison] with other brewing software.
+* [http://www.usermode.org/code.html QBrew]: Calculate the gravity, color and bitterness of your recipe as you add in grains, extracts, adjuncts and hops.
+** [http://www.thescrewybrewer.com/2010/09/qbrew-homebrewers-recipe-calculator.html Add more recipe databases]
+* [http://brewnix.sourceforge.net/ Brewnix]: Beer brewing software for Unix-like systems (last updated 2002).
+
+== Astronomy & Stargazing ==
+* [http://www.celestiamotherlode.net Celestia]: 3D real-time space simulator used by NASA, with a model of our solar system and plugins for other systems, planets, and stars.
+* [http://stellarium.org/ Stellarium]: Planetarium for your desktop, with real-time sky maps.
+* [http://edu.kde.org/kstars/ Kstars]: Another great planetarium application.
+
+== Utilities ==
+* [http://peazip.org PeaZIP]: Archiving and unarchiving utility.  Replaces WinZip, WinRAR, and many others.
+* [http://www.7-zip.org/ 7-zip]: Classic and simple archiver/unarchiver.
+* [http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/ PDFtk]: PDF Toolkit.  Allows for complex manipulation of PDF files.
+* [http://virtualbox.org VirtualBox]: Run [https://en.wikipedia.org/wiki/Virtual_machine virtual machines] inside your operating system (e.g. for testing).
+* [http://www.cogniview.com/cc-free-pdf-converter CC PDF Converter]:  Convert document into PDF files, while embedding a [https://en.wikipedia.org/wiki/Creative_Commons Creative Commons] license.
+* [http://www.httrack.com/ HTTrack]: Website copier, mirrors websites.
+* [http://xournal.sourceforge.net/ Xournal]: Annotate and highlight PDFs and text files.
+
+== Security ==
+* [http://keepass.info/ KeePass] and [https://www.keepassx.org/ KeePassX]: Password and keyring manager with encrypted storage.
+* [http://www.zdia.de/downloads/gorilla/ Password Gorilla]: Another password manager, [https://github.com/zdia/gorilla/wiki more info here].
+* [http://www.clamwin.com/ ClamAV/ClamWin Antivirus]: Free antivirus for Windows.
+:* [http://clamsentinel.sourceforge.net/ Clam Sentinel]: Adds a real-time scanner to ClamWin, *highly-recommended addition*.
+* [http://sourceforge.net/projects/winpooch/ WinPooch]: Aggressively detects filesystem modifications, to guard against trojans and malware.
+* [http://moonav.sourceforge.net/ Moon Secure Antivirus]: A complete antivirus suite for Windows, with real-time scanner and firewall.
+* [http://bleachbit.sourceforge.net/ BleachBit]: Frees cache, delete cookies, clears Internet history, shreds temporary files, etc.
+
+== Plugins & Viewers ==
+* [https://live.gnome.org/Evince/Downloads Evince]: PDF viewer.  Replaces Adobe Reader.
+* [http://www.openscg.com/se/openjdk/ OpenJDK]: Java plugin.  *Usually* less targeted than the Sun/Oracle Java JRE/JVM but please read up before installing (Java is a common attack vector).
+
+=== eBooks ===
+* [http://calibre-ebook.com Calibre]: free e-book reader, with support for collections and coversion.  [http://manual.calibre-ebook.com/faq.html#what-formats-does-app-support-conversion-to-from Supported formats].
+** [http://drmfree.calibre-ebook.com/by/genre Calibre DRM-free library]
+* [http://fbreader.org FBReader]: free e-book reader.  [http://fbreader.org/content/book-formats-supported-and-not-supported Supported formats].
+* [http://www.bluegriffon-epubedition.com/ BlueGriffon EPUB Edition]: Graphical editor for ePub books.
+* [https://wfpbookreader.codeplex.com/ CBR]: Originally a Comic Book Reader, but also supports other eBook formats (EPUB, XPS, archives like RAR, ZIP).
+
+==== Formats & DRM ====
+* [https://en.wikipedia.org/wiki/EPub ePub] and [https://en.wikipedia.org/wiki/Mobipocket .mobi] are the preferred eBook formats.  They ''usually'' contain no [https://en.wikipedia.org/wiki/Digital_rights_management Digital Restrictions Management (DRM)].  
+* [https://en.wikipedia.org/wiki/.azw#File_formats Amazon .azw] is basically the same as .mobi + DRM.
+* Apple iBooks is a proprietary version of ePub.
+* Amazon, Microsoft, and Apple all support some degree of DRM.  In some cases, they've failed at pushing their DRM eBooks and we need to [https://apprenticealf.wordpress.com/2011/01/13/ebooks-formats-drm-and-you-%E2%80%94-a-guide-for-the-perplexed/ keep up that trend].
+* [http://www.ebook-converter.com/33-remove-drm-epub.htm How to remove ePub DRM]
+* [https://en.wikipedia.org/wiki/Comparison_of_e-book_formats Comparison of eBook Formats]
+* [https://apprenticealf.wordpress.com/2011/01/13/ebooks-formats-drm-and-you-%E2%80%94-a-guide-for-the-perplexed/ eBook guide for the perplexed]
+* Read why [http://www.gutenberg.org/wiki/Gutenberg:Kindle_Fire_Review a Kindle Fire is bad for freedom].
+
+==== Free eBooks ====
+* [http://www.gutenberg.org/wiki/Main_Page Project Gutenberg]: 42K+ free eBooks (and counting!).
+* [http://www.baenebooks.com/ Baen eBooks]
+* [http://storybundle.com/ Story Bundle]
+* [https://www.humblebundle.com/ Humble Bundle]
+
+= Candidates for Inclusion =
+* Place candidates here whose status as free/open-source software has been unverified (or the programs have mixed codebases).
+* '''These programs may not fit the [https://www.gnu.org/philosophy/free-sw.html free software definition] ([https://en.wikipedia.org/wiki/Libre libre]), or are only [https://en.wikipedia.org/wiki/Freeware freeware] ([https://en.wikipedia.org/wiki/Gratis gratis]).'''
+
+== List ==
+* [http://www.reaper.fm/ Reaper]: Full-featured Digital Audio Workstation.
+* [http://vectorian.com/giotto/ Vectorian Giotto]: Advanced Vector animation studio, creates Flash/SWF movies.
+* [http://www.aoamedia.com/audioextractor.htm AoA Audio Extractor]: Rips high-quality audio from videos.
+* [http://www.dvdshrink.org DVDshrink]: Shrinks DVDs to fit on DVDs < 4.7GB.
+* [http://www.avast.com Avast!]: Anti-virus, also available on cellphones.
+* [http://free.avg.com AVG Anti-Virus]: Freeware anti-virus.
+* [http://www.zs4.net/downloads t@b ZS4]: Video editor.
+* [http://www.awesomeanimator.com Awesome Animator]: Create vector animations.
+* [http://www.foxitsoftware.com/ Foxit Reader]: PDF reader and browser plugin to replace Adobe Reader.
+* [http://www.tracker-software.com/product/pdf-xchange-viewer PDF Xchange]: PDF viewer, editor, and OCR.
+* [http://www.slsknet.org/ Soulseek]: Filesharing network, with direct P2P queues.
+* [http://www.malwarebytes.org/ MalwareBytes Anti-Malware]: Malware/spyware scanner.
+* [http://www.cutepdf.com/products/cutePDF/Writer.asp CutePDF Writer]: Creates PDFs as a PDF printer driver.  Uses [https://en.wikipedia.org/wiki/Ghostscript GNU GPL Ghostscript].
+* [http://www.izarc.org/ IZarc]: Archive utility for practically every archive format out there.
+* [http://www.slysoft.com/virtual-clonedrive.html VirtualCloneDrive]: Allows you to mount ISOs as if they were native CD/DVD drives in Windows.
+* [http://secunia.com Secunia PSI]: A suite of tools, including one that automatically downloads security patches for installed software on the system.  Brings something a little like [https://en.wikipedia.org/wiki/Package_management_system package management] to Windows.
+* [http://iobit.com IOBIT]: Security program, registry cleaner, and a host of other system tweaks.
+* [http://www.safer-networking.org/ SpyBot Search & Destroy]: Malware/spyware scanner.
+* [http://www.debugmode.com/wink/ Wink]: Screen capture and tutorial program. 
+* [http://cyanogenmod.org CyanogenMod]: The most popular alternative firmware for Android.  See [http://replicant.us/ Replicant] for the 100% free software alternative, as well as the [http://f-droid.org/ F-Droid] package manager.
+
+= Hardware =
+* We know it can be difficult to find freedom-respecting hardware, and usually we have to "hack what we've got".  The list of hardware that is FOSS-compatible is increasing, however.
+* To buy a computer that has GNU/Linux pre-installed, take a look at the long list of vendors at [http://linuxpreloaded.com Linux Preloaded].
+* For the most comprehensive database on compatible hardware, check out [http://h-node.org H-Node].
+
+= Router Firmware =
+* [http://dd-wrt.com DD-WRT]: Probably the most diverse FOSS firmware out there, with support for a ton of devices.  [http://dd-wrt.com/site/support/router-database Look up your router] and follow the instructions.
+** [http://www.dd-wrt.com/site/dd-wrt_privacy DD-WRT Privacy] is a great tool by the same devs.
+* There are many other [https://en.wikipedia.org/wiki/List_of_wireless_router_firmware_projects router firmware projects], such as [https://en.wikipedia.org/wiki/Tomato_Firmware Tomato].
+
+= Recommended Web Hosts =
+This is a list of Web hosts for [https://en.wikipedia.org/wiki/LAMP_server LAMP] servers.  These hosts make it easy to run WordPress, MediaWiki, and other free software [https://en.wikipedia.org/wiki/Web_content_management_system Content Management Systems] (CMS).
+
+* [http://dreamhost.com DreamHost]
+* [http://bluehost.com BlueHost]
+* [http://1and1.com 1and1]
+* [http://greengeeks.com GreenGeeks]
+
+Keep in mind, when you take out a hosting account you are '''signing up for space and a service on a company's computer''', somewhere "out there" on the Web.  You should read through the Web host's privacy policy, terms of service, and any other agreements before you sign up.  [[Project:About|Get Libre]] runs on [http://dreamhost.com DreamHost].
+
+== Local Web Hosting ==
+These Apache-based options will install a Web server on your local machine.
+
+* [http://www.apachefriends.org/en/xampp.html XAMPP] for Windows
+* [http://www.mamp.info/en/mamp/ MAMP] for Mac OSX.
+* On [[Software_Recommendations#GNU.2FLinux|GNU/Linux systems]], please see your [https://en.wikipedia.org/wiki/Package_management_system package manager] ([http://www.phpzinc.com/2011/01/installing-lamp-in-ubuntu-10-0410-10-with-synaptic-package-manager/ such as Synaptic]) or use options [http://www.howtoforge.com/ubuntu_debian_lamp_server in the command line] like [https://help.ubuntu.com/community/Tasksel tasksel].
+
+=== Turnkey Linux ===
+* [http://www.turnkeylinux.org/lampstack LAMP Appliance]: Turnkey Linux offers excellent, compact versions of Ubuntu Server that are tailored for hosting [http://www.turnkeylinux.org/all specific Web apps].  You can install them by [https://help.ubuntu.com/community/BurningIsoHowto burning a .iso file], or just [http://www.turnkeylinux.org/docs/installation-appliances-virtualbox running as a virtual machine (VM)].
+* [http://www.turnkeylinux.org/node/1678 Help with VM networking in VirtualBox]
+
+== [https://riseup.net Riseup.net] ==
+Riseup.net offers services such as e-mail and chat which are guaranteed to be safe and private.  Their services are designed specifically for activists.  You have to request an account for most of their services, but it's worth the wait if you're an organizer (or just value your privacy!).  Recommend services:
+* [https://mail.riseup.net E-mail]: You have to request a mailbox @riseup.net, which may take time.
+* [https://lists.riseup.net Mail Lists]: Easily administered with Sympa.  You can also check the directory and join lists that might interest you.
+* [https://riseup.net/en/chat Chat]: [https://en.wikipedia.org/wiki/XMPP Jabber/XMPP] IM service.
+* [https://pad.riseup.net Etherpad]: Group collaboration on text documents.
+* [https://we.riseup.net/neanetwork/ Crabgrass Network]: A social network/organizing platform.
+** [https://we.riseup.net/neanetwork/skillshares-and-trainings Skillshares and Trainings from NEanarchists on Crabgrass]
+
+=== Communication Security ===
+* Riseup.net also has a [https://help.riseup.net/en/security great primer on security].
+* Please consider [https://help.riseup.net/en/donate donating to RiseUp.net] if you find their resources useful.
+* We're building a section based upon RiseUp.net's resources, please send substantial text contributions to [[Communication_Security|that section]] back to [mailto:waxwing@riseup.net waxwing@riseup.net].  Also, check out the projects they're working on and [https://help.riseup.net/en/programmers-wanted see if you can help out].
